@@ -1,0 +1,10 @@
+{
+  "appId": "com.zeusinstitute.turboc",
+  "appName": "turboc++",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
